@@ -1,0 +1,2 @@
+(text(elm)) hello
+(color(elm)) black
